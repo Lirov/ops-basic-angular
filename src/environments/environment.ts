@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://13.49.70.140:8080/api'
+  url: 'https://ec2-stage.lirovink.com/api'
 };
 
 /*
